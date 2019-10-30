@@ -1,0 +1,90 @@
+[21-Jun-2018 07:36:09 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/gwadarone/public_html/greenbit/customers.php on line 2
+[21-Jun-2018 07:38:29 America/Chicago] PHP Notice:  Undefined variable: curl in /home/gwadarone/public_html/greenbit/customers.php on line 3
+[21-Jun-2018 07:43:58 America/Chicago] PHP Notice:  Undefined index:  in /home/gwadarone/public_html/greenbit/customers.php on line 36
+[21-Jun-2018 07:49:42 America/Chicago] PHP Notice:  Undefined index: phone in /home/gwadarone/public_html/greenbit/customers.php on line 42
+[21-Jun-2018 07:49:42 America/Chicago] PHP Notice:  Undefined index: company_id in /home/gwadarone/public_html/greenbit/customers.php on line 43
+[21-Jun-2018 07:50:46 America/Chicago] PHP Notice:  Undefined index: phone in /home/gwadarone/public_html/greenbit/customers.php on line 42
+[21-Jun-2018 07:50:46 America/Chicago] PHP Notice:  Undefined index: company_id in /home/gwadarone/public_html/greenbit/customers.php on line 43
+[21-Jun-2018 07:53:20 America/Chicago] PHP Notice:  Undefined index: company_id in /home/gwadarone/public_html/greenbit/customers.php on line 42
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 02:27:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 150
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:11 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:07:14 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/gwadarone/public_html/greenbit/products.php on line 89
+[22-Jun-2018 04:32:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gwadarone/public_html/greenbit/products.php on line 86
+[22-Jun-2018 04:32:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/gwadarone/public_html/greenbit/products.php on line 86
+[23-Jun-2018 04:16:26 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/gwadarone/public_html/greenbit/test.php on line 2
+[23-Jun-2018 05:14:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gwadarone/public_html/greenbit/products.php on line 116
